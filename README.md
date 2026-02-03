@@ -1,10 +1,7 @@
 
 ## 🎥 Project Demo
 
-<video width="640" controls>
-   <source src="video/demo.mp4" type="video/mp4">
-</video>
-
+https://github.com/user-attachments/assets/0d02ab8b-b092-44b2-9696-5e0b38fb7b1d
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
