@@ -1,3 +1,9 @@
+<video width="640" controls>
+  <source src="./video/Screen Recording 2026-02-04 000627.mp4" type="video/mp4">
+</video>
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
