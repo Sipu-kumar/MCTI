@@ -1,6 +1,8 @@
 
+## 🎥 Project Demo
+
 <video width="640" controls>
-  <source src="video/demo.mp4" type="video/mp4">
+  <source src="./video/demo.mp4" type="video/mp4">
 </video>
 
 
